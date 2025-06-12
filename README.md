@@ -1,4 +1,11 @@
-## Hi there 👋
+## Welcome to the club buddy
+I`m student college.
+
+I'm studying to become a programmer.
+
+I know C#, Python. Work with MS SQL Server, SMSS. I know a bit about JS, Node.js.
+
+Love Jetbrain programs.
 
 <!--
 **jirnobruh/jirnobruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
