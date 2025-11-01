@@ -7,7 +7,7 @@ I know C#, Python. Work with MS SQL Server, SMSS. I know a bit about JS, Node.js
 
 Love Jetbrain programs.
 
-[![Jirnobruh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jirnobruh)](https://github.com/anuraghazra/github-readme-stats)
+[![Jirnobruh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jirnobruh&show_icons=true)]
 
 <!--
 **jirnobruh/jirnobruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
