@@ -7,7 +7,7 @@ I know C#, Python. Work with MS SQL Server, SMSS. I know a bit about JS, Node.js
 
 Love Jetbrain programs.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jirnobruh&langs_count=5&layout=compact)
+
 
 <!--
 **jirnobruh/jirnobruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
