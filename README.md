@@ -1,9 +1,8 @@
 ## Welcome to the club buddy
-I`m student college.
+I study at the college.
 
 I'm studying to become a programmer.
-
-I know C#, Python. Work with MS SQL Server, SMSS. I know a bit about JS, Node.js.
+(Secondary vocational education in the specialty 09.02.07 Information systems and programming)
 
 Love Jetbrain programs.
 
