@@ -23,9 +23,10 @@ Love Jetbrain programs.
 <img src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SSMS">
 <img src="https://img.shields.io/badge/pgAdmin4-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PgAdmin4">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jirnobruh&langs_count=5&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jirnobruh&langs_count=5&layout=compact) -->
 
-![Top Langs By Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jirnobruh) ![Top Langs By Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jirnobruh)
+![Top Langs By Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jirnobruh) 
+![Top Langs By Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jirnobruh)
 
 <!--
 **jirnobruh/jirnobruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
