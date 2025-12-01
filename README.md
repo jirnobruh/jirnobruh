@@ -26,8 +26,9 @@ Love Jetbrain programs.
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jirnobruh&langs_count=5&layout=compact) -->
 
-![Top Langs By Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jirnobruh) 
-![Top Langs By Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jirnobruh)
+![Top Langs By Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jirnobruh&theme=github_dark) 
+![Top Langs By Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jirnobruh&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jirnobruh&theme=github_dark)
 
 <!--
 **jirnobruh/jirnobruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
